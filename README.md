@@ -47,8 +47,8 @@ When calculating the area of a plane figure, the selected shape **lights up dyna
   <img src="pic6.png" width="200">
 </p>
 <p align="center">
-  <img src="pic7.png" width="200">
-  <img src="pic8.png" width="200">
+  <img src="pic7.png" width="300">
+  <img src="pic8.png" width="300">
   
 </p>
 ---
