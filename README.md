@@ -46,12 +46,11 @@ When calculating the area of a plane figure, the selected shape **lights up dyna
   <img src="pic5.png" width="200">
   <img src="pic6.png" width="200">
 </p>
-
+<p align="center">
+  <img src="pic7.png" width="200">
+  <img src="pic8.png" width="200">
+  
+</p>
 ---
 
-## 📦 Installation & Usage
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/scientific-calculator.git
-   cd scientific-calculator
